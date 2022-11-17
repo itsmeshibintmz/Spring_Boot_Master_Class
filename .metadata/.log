@@ -2188,3 +2188,21 @@ java.lang.Exception: File not found: C:\Users\Shibin\Documents\GitHub\learn_spri
 
 !ENTRY org.eclipse.m2e.logback.appender 4 0 2022-11-17 07:40:36.157
 !MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY com.swdc.codetime 1 1 2022-11-17 07:42:53.365
+!MESSAGE Code Time: file opened: /C:/Users/Shibin/Documents/GitHub/learn_spring_framework/src/main/resources/application.properties
+
+!ENTRY com.swdc.codetime 1 1 2022-11-17 07:42:53.366
+!MESSAGE Code Time: file opened: /C:/Users/Shibin/Documents/GitHub/learn_spring_framework/src/main/resources/application.properties
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2022-11-17 07:43:02.889
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2022-11-17 07:43:04.601
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2022-11-17 07:43:11.975
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2022-11-17 07:43:14.377
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
