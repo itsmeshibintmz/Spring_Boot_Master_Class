@@ -2116,3 +2116,66 @@ java.lang.Exception: File not found: C:\Users\Shibin\Documents\GitHub\learn_spri
 
 !ENTRY org.eclipse.m2e.logback.appender 4 0 2022-11-17 07:30:11.570
 !MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2022-11-17 07:33:25.662
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2022-11-17 07:33:33.372
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2022-11-17 07:33:38.050
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2022-11-17 07:33:39.854
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2022-11-17 07:34:55.437
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2022-11-17 07:35:17.832
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2022-11-17 07:35:34.182
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2022-11-17 07:35:56.637
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2022-11-17 07:36:00.151
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2022-11-17 07:36:28.520
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2022-11-17 07:36:47.773
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2022-11-17 07:37:19.372
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2022-11-17 07:37:24.363
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2022-11-17 07:37:50.678
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2022-11-17 07:37:58.211
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2022-11-17 07:38:00.635
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2022-11-17 07:38:04.081
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2022-11-17 07:38:06.836
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2022-11-17 07:38:13.668
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY com.swdc.codetime 1 1 2022-11-17 07:38:24.332
+!MESSAGE Code Time: file closed: /C:/Users/Shibin/Documents/GitHub/learn_spring_framework/src/main/java/com/springbootmaster/spring/learn_spring_framework/game/GamingConsole.java
+
+!ENTRY com.swdc.codetime 1 1 2022-11-17 07:38:24.335
+!MESSAGE Code Time: file closed: /C:/Users/Shibin/Documents/GitHub/learn_spring_framework/src/main/java/com/springbootmaster/spring/learn_spring_framework/game/GamingConsole.java
