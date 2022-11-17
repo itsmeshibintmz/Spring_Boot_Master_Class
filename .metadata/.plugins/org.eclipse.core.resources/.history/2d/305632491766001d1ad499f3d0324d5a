@@ -1,0 +1,30 @@
+package com.springbootmaster.spring.learn_spring_framework.game;
+
+public class GameRunner {
+
+	private MarioGame game;
+	private SuperContraGame sgame;
+	
+	public GameRunner(MarioGame game) {
+		// TODO Auto-generated constructor stub
+		this.game = game;
+		
+	}
+	
+	public GameRunner(SuperContraGame sgame) {
+		this.sgame = sgame;
+	}
+	public void run() {
+		// TODO Auto-generated method stub
+		game.up();
+		game.down();
+		game.left();
+		game.right();
+		
+		sgame.up();
+		sgame.down();
+		sgame.left();
+		sgame.rifht
+	}
+
+}
