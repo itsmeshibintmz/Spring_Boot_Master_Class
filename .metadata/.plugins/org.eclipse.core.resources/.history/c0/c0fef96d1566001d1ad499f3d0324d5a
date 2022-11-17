@@ -1,0 +1,10 @@
+package com.springbootmaster.spring.learn_spring_framework.game;
+
+public class GameRunner {
+
+	private MarioGame game;
+	public GameRunner(MarioGame game) {
+		// TODO Auto-generated constructor stub
+	}
+
+}

@@ -1,0 +1,8 @@
+package com.springbootmaster.spring.learn_spring_framework.game;
+
+public class MarioGame {
+	
+	public void up() {
+		System.out.println("up");
+	}
+}
