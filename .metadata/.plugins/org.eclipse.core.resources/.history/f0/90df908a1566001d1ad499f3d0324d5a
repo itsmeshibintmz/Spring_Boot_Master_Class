@@ -1,5 +1,0 @@
-package com.springbootmaster.spring.learn_spring_framework.game;
-
-public class MarioGame {
-	pubblic void up() 
-}

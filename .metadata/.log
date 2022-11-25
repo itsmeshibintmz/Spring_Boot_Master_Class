@@ -2452,3 +2452,9 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY com.wakatime.eclipse.plugin 1 0 2022-11-24 21:30:51.696
 !MESSAGE wakatime-cli is up to date.
+
+!ENTRY com.swdc.codetime 1 1 2022-11-24 21:31:34.399
+!MESSAGE Code Time: file closed: /C:/Users/Shibin/Documents/GitHub/learn_spring_framework/src/main/java/com/springbootmaster/spring/learn_spring_framework/LearnSpringFrameworkApplication.java
+
+!ENTRY com.swdc.codetime 1 1 2022-11-24 21:31:34.411
+!MESSAGE Code Time: file closed: /C:/Users/Shibin/Documents/GitHub/learn_spring_framework/src/main/java/com/springbootmaster/spring/learn_spring_framework/LearnSpringFrameworkApplication.java
